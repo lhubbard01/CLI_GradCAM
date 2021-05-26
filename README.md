@@ -4,3 +4,4 @@ This is still a work in progress but it is fun to tool around with, provide it w
 
 It is launched through your typical python launch call "python3 impl.py". Throw in a " --help" to get a read out of expected arguments for the runtime.  There are many inefficiencies within this module, but I just threw it up here for the curious.
 
+![Highlighted Cat and Dog][/assets/\(\'Egyptian_cat\',_12.191527\).png]
